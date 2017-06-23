@@ -1,0 +1,29 @@
+
+.section-header{
+  padding: 1rem .5rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 200;
+  background-color: #eff1fa;
+}
+
+.section-footer{
+  padding: 1rem .5rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 200;
+  background-color: #eff1fa;
+}
+
+.list-body{
+  padding: 5rem 1rem;
+}
+
+
+.todo{
+  margin: .5rem 0;
+  padding: .5rem;
+  border: 1px solid #eff1fa;
+}
