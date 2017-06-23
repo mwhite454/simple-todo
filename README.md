@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Styling provided by [Spectre.css](https://picturepan2.github.io/spectre/index.html)
 
-[Demo Available](cuddle-egg.surge.sh)
+[Demo Available](http://cuddly-egg.surge.sh/)
 
 # Simple-ToDo
 A simple and ephemeral todo app - this application currently has no permanent storage.
